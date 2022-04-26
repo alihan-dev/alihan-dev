@@ -1,4 +1,4 @@
-Hi 👋 My name is Alihan Cibooglu
+Hi 👋 My name is Alihan
 ================================
 
 Back-end Developer
