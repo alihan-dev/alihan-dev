@@ -1,8 +1,18 @@
 # Alihan Cibooglu
 
-**Full-Stack Software Engineer** based in Istanbul, building scalable SaaS platforms.
+**CTO & Software Architect** based in Istanbul.
 
-I design and develop multi-tenant, enterprise-grade backend systems with a focus on performance, security, and clean architecture. Currently building **Senitix** — a modular CRM and business platform.
+I lead the full technical vision and development of enterprise SaaS products — from system architecture and infrastructure design to hands-on implementation. I build and ship production systems end-to-end, making architectural decisions on multi-tenant platforms, distributed services, and real-time data pipelines.
+
+Currently serving as **CTO at Senitix**, where I architect and develop the entire platform: a modular CRM backend, customer-facing applications, marketplace infrastructure, and the cloud environment that ties them together.
+
+## What I Do
+
+- **System Architecture:** Design multi-service platforms with clear domain boundaries, event-driven communication, and independent scaling
+- **Backend Engineering:** Build high-throughput APIs with tenant isolation at application and database layers (PostgreSQL RLS), circuit breakers, queue-driven processing, and real-time WebSocket systems
+- **Infrastructure & DevOps:** Orchestrate containerized deployments, manage cloud resources, configure CI/CD pipelines, and own production reliability
+- **Frontend Development:** Deliver responsive, type-safe interfaces with modern component architectures
+- **Technical Leadership:** Define technology strategy, evaluate trade-offs, and drive architectural decisions across the full stack
 
 ## Tech Stack
 
@@ -26,14 +36,6 @@ I design and develop multi-tenant, enterprise-grade backend systems with a focus
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-## What I Build
-
-- Multi-tenant SaaS platforms with tenant isolation at both application and database layers
-- High-throughput APIs with rate limiting, caching, and circuit breaker patterns
-- Real-time systems using WebSockets and queue-driven architectures
-- Automation engines, pipeline systems, and complex business logic
-- Secure authentication flows with token introspection and RBAC
 
 ---
 
