@@ -1,4 +1,4 @@
-# Alihan Cibooglu
+# Alihan Cibooğlu
 
 **CTO & Software Architect** based in Istanbul.
 
