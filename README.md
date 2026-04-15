@@ -4,38 +4,54 @@
 
 I lead the full technical vision and development of enterprise SaaS products — from system architecture and infrastructure design to hands-on implementation. I build and ship production systems end-to-end, making architectural decisions on multi-tenant platforms, distributed services, and real-time data pipelines.
 
-Currently serving as **CTO at Senitix**, where I architect and develop the entire platform: a modular CRM backend, customer-facing applications, marketplace infrastructure, and the cloud environment that ties them together.
+Currently serving as **CTO at Senitix**, where I architect and develop the entire platform: a modular CRM backend, customer-facing applications, a shared UI component library, marketplace infrastructure, and the cloud environment that ties them together.
 
 ## What I Do
 
 - **System Architecture:** Design multi-service platforms with clear domain boundaries, event-driven communication, and independent scaling
 - **Backend Engineering:** Build high-throughput APIs with tenant isolation at application and database layers (PostgreSQL RLS), circuit breakers, queue-driven processing, and real-time WebSocket systems
-- **Infrastructure & DevOps:** Orchestrate containerized deployments, manage cloud resources, configure CI/CD pipelines, and own production reliability
-- **Frontend Development:** Deliver responsive, type-safe interfaces with modern component architectures
+- **Infrastructure & DevOps:** Orchestrate multi-droplet production environments with containerized deployments, reverse proxies, automated deploy/rollback scripts, and monitoring
+- **Frontend Development:** Deliver type-safe, internationalized interfaces with modern component architectures and a shared design system
 - **Technical Leadership:** Define technology strategy, evaluate trade-offs, and drive architectural decisions across the full stack
 
 ## Tech Stack
 
-**Backend**
+**Languages**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Backend**
+
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Swoole](https://img.shields.io/badge/Swoole-007EC6?style=for-the-badge&logo=swoole&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![React Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
-**Data & Infrastructure**
+**Database & Storage**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+**Infrastructure & DevOps**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
